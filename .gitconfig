@@ -1,0 +1,7 @@
+[user]
+        name = Cruwal
+        email = wallacecs@hotmail.com.br
+[core]
+        editor = nvim
+[init]
+        defaultBranxh = main
